@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+/runs
+/mujoco_menagerie
+/saved_models_reinforce_2
+/saved_models_sac_2
 # Distribution / packaging
 .Python
 build/
